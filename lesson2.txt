@@ -1,0 +1,6 @@
+git clone 
+git push
+git pull
+
+#include <stdlib.h>
+#include <stdio.h>
